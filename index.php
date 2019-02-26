@@ -1,4 +1,4 @@
 <?php
-     echo"Ini adalah percobaan testingah:;
+     echo"Ini adalah percobaan testingah";
 ?>
    
